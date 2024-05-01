@@ -6,6 +6,7 @@ The `MySQL` server can be *started* manually from the command line. This can be 
 
 
 <img src="https://github.com/viresh04/test/assets/161003655/83af0de7-7814-4fc4-bbb6-1ba1c0dd2c02" width=100 height =100/>
-```
-  cd
-```
+
+
+```bash
+$ command1 arg1 arg2

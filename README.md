@@ -10,3 +10,4 @@ The `MySQL` server can be *started* manually from the command line. This can be 
 
 ```bash
 $ command1 arg1 arg2
+$ cd myfolder
